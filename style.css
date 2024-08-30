@@ -32,9 +32,8 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   background-color: var(--paleBlue);
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  place-items: center;
 }
 
 .container {
